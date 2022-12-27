@@ -1,7 +1,7 @@
 # 🎯 About Me
-I’m a Front-end Web Developer with a Graphic Design background and some knowledge of UX and UI Design. 
-I work mainly with HTML, CSS, and JavaScript, having particular heed to accessibility and usability by making the navigation experience easier for everyone.
-A born creative with a problem-solving mindset. Able to combine aesthetic with functionality, in order to obtain a pleasant and responsive final product.
+I’m a **Front-end Web Developer** with a Graphic Design background and some knowledge of **UX** and **UI Design**. 
+I work mainly with **HTML**, **CSS**, and **JavaScript**, having particular heed to **accessibility** and **usability** by making the navigation experience easier for everyone.
+A born **creative** with a **problem-solving** mindset. Able to combine aesthetic with functionality, in order to obtain a pleasant and responsive final product.
 <br><br><br>
 
 ## 💻 Tech Stack
