@@ -7,12 +7,12 @@ A born <strong>creative</strong> with a <strong>problem-solving</strong> mindset
 <h2>💼 Professional Experience</h2>
 <ul>
   <li>
-    <p><a href="https://wycreative.com/" target="_blank">WYcreative</a> | Mar 2022 - Present</p>
+    <p><a href="https://wycreative.com/">WYcreative</a> | Mar 2022 - Present</p>
     <h3>Front-End Web Developer Trainee</h3>
     <p>Working primarily with Pug, Sass and JavaScript for web development projects. I also have responsibility over the QA tests and newsletters, which are written in Handlebars and Less.</p><br>
   </li>
   <li>
-    <p><a href="https://www.dice.pt/" target="_blank">Dice.pt</a> | Jul 2020 - Jun 2021</p>
+    <p><a href="https://www.dice.pt/">Dice.pt</a> | Jul 2020 - Jun 2021</p>
     <h3>Graphic Designer</h3>
     <p>The majority of the work done on Dice.pt was branding, editorial, motion, social media management, web design, email marketing, illustration, copywriting, and SEO. The most used tools were Adobe Illustrator, Photoshop, After Effects, Indesign, and XD.</p>
   </li>
@@ -64,15 +64,13 @@ A born <strong>creative</strong> with a <strong>problem-solving</strong> mindset
 <br><br>
   
 <h2>🌐 Portfolio</h2>
-<div style="display:flex;">
-  <table>
-    <tr>
-      <td><a href="https://linkedin.com/in/raul-ramos-pinto" target="_blank">LinkedIn</a></td>
-      <td><a href="https://behance.net/raulramospinto" target="_blank">Behance</a></td>
-      <td><a href="https://codepen.io/raulbmrp" target="_blank">CodePen</a></td>
-      <td><a href="https://instagram.com/raulbmrp" target="_blank">Instagram</a></td>
-    </tr>
-  </table>
-  <a href="https://drive.google.com/file/d/1Gig3N9-O4pVQj9VUC_N5qR7dqy5uHve7/view" target="_blank">View my Resumé</a>
-</div>
+<table>
+  <tr>
+    <td><a href="https://linkedin.com/in/raul-ramos-pinto">LinkedIn</a></td>
+    <td><a href="https://behance.net/raulramospinto">Behance</a></td>
+    <td><a href="https://codepen.io/raulbmrp">CodePen</a></td>
+    <td><a href="https://instagram.com/raulbmrp">Instagram</a></td>
+  </tr>
+</table>
+<a href="https://drive.google.com/file/d/1Gig3N9-O4pVQj9VUC_N5qR7dqy5uHve7/view">View my Resumé</a>
 <br>
