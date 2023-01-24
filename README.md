@@ -1,10 +1,10 @@
-# 🎯 About Me
-I’m a **Front-end Web Developer** with a Graphic Design background and some knowledge of **UX** and **UI Design**. 
-I work mainly with **HTML**, **CSS**, and **JavaScript**, having particular heed to **accessibility** and **usability** by making the navigation experience easier for everyone.
-A born **creative** with a **problem-solving** mindset. Able to combine aesthetic with functionality, in order to obtain a pleasant and responsive final product.
+<h1>🎯 About Me</h1>
+I’m a <strong>Front-end Web Developer</strong> with a Graphic Design background and some knowledge of <strong>UX</strong> and <strong>UI Design</strong>. 
+I work mainly with <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>, having particular heed to <strong>accessibility</strong> and <strong>usability</strong> by making the navigation experience easier for everyone.
+A born <strong>creative</strong> with a <strong>problem-solving</strong> mindset. Able to combine aesthetic with functionality, in order to obtain a pleasant and responsive final product.
 <br><br><br>
 
-## 💻 Tech Stack
+<h2>💻 Tech Stack</h2>
 **Languages**
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
@@ -20,7 +20,7 @@ A born **creative** with a **problem-solving** mindset. Able to combine aestheti
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat&logo=adobeindesign&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white)
 <br><br><br>
 
-### 🌐 Social Media
+<h3>🌐 Social Media</h3>
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/raulramospinto) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raulbmrp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raul-ramos-pinto) 
 
