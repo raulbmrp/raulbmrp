@@ -64,8 +64,15 @@ A born <strong>creative</strong> with a <strong>problem-solving</strong> mindset
 <br><br>
   
 <h2>🌐 Portfolio</h2>
-<table style="display:inline-block;"><tr><td><a href="https://linkedin.com/in/raul-ramos-pinto" target="_blank">LinkedIn</a></td></tr></table>
-<table style="display:inline-block;"><tr><td><a href="https://behance.net/raulramospinto" target="_blank">Behance</a></td></tr></table>
-<table style="display:inline-block;"><tr><td><a href="https://codepen.io/raulbmrp" target="_blank">CodePen</a></td></tr></table>
-<table style="display:inline-block;"><tr><td><a href="https://instagram.com/raulbmrp" target="_blank">Instagram</a></td></tr></table>
+<div style="display:flex;">
+  <table>
+    <tr>
+      <td><a href="https://linkedin.com/in/raul-ramos-pinto" target="_blank">LinkedIn</a></td>
+      <td><a href="https://behance.net/raulramospinto" target="_blank">Behance</a></td>
+      <td><a href="https://codepen.io/raulbmrp" target="_blank">CodePen</a></td>
+      <td><a href="https://instagram.com/raulbmrp" target="_blank">Instagram</a></td>
+    </tr>
+  </table>
+  <a href="https://drive.google.com/file/d/1Gig3N9-O4pVQj9VUC_N5qR7dqy5uHve7/view" target="_blank">View my Resumé</a>
+</div>
 <br>
