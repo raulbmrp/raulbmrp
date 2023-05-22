@@ -6,13 +6,13 @@
 <ul>
   <li>
     <p><a href="https://wycreative.com/">WYcreative</a> | Mar 2022 - Present</p>
-    <h3>Front-End Web Developer Trainee</h3>
-    <p>Working primarily with Pug, Sass and JavaScript for web development projects. I also have responsibility over the QA tests and newsletters, which are written in Handlebars and Less.</p><br>
+    <h3>Front-End Web Developer</h3>
+    <p>I’m mostly working with PugJS, SASS and JavaScript for web development projects. I’m also responsible for QA tests and newsletters, in which I write in Handlebars and Less.</p><br>
   </li>
   <li>
     <p><a href="https://www.dice.pt/">Dice.pt</a> | Jul 2020 - Jun 2021</p>
     <h3>Graphic Designer</h3>
-    <p>The majority of the work done on Dice.pt was branding, editorial, motion, social media management, web design, email marketing, illustration, copywriting, and SEO. The most used tools were Adobe Illustrator, Photoshop, After Effects, Indesign, and XD.</p>
+    <p>During my previous role as a Graphic Designer, I honed skills in Illustration, SEO, Branding, Editorial, Motion, and Web Design, by using tools such as Adobe Illustrator, Photoshop, After Effects, Indesign and Figma.</p>
   </li>
 </ul>
 <br><br>
@@ -29,7 +29,7 @@
   <tbody>
     <tr>
       <td>HTML5</td>
-      <td>Pug</td>
+      <td>PugJS</td>
       <td>Figma</td>
     </tr>
     <tr>
