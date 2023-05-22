@@ -1,7 +1,5 @@
 <h1>👋 About Me</h1>
-<p>I’m a <strong>Front-end Web Developer</strong> with a Graphic Design background and some knowledge of <strong>UX</strong> and <strong>UI Design</strong>.</p>
-<p>I work mainly with <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>, having particular heed to <strong>accessibility</strong> and <strong>usability</strong> by making the navigation experience easier for everyone.
-A born <strong>creative</strong> with a <strong>problem-solving</strong> mindset. Able to combine aesthetic with functionality, in order to obtain a pleasant and responsive final product.</p>
+<p>As a passionate <strong>Front-End Developer</strong>, I have expertise in <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>, placing a strong emphasis on creating <strong>accessible</strong> and <strong>user-friendly</strong> websites. By combining a keen eye for <strong>UX</strong> and <strong>UI Design</strong>, I seamlessly blend <strong>aesthetics</strong> with <strong>functionality</strong> to deliver captivating and <strong>responsive digital experiences</strong>. Employing a <strong>problem-solving mindset</strong>, I tackle challenges head-on, discovering innovative solutions for optimal results.</p>
 <br><br>
 
 <h2>💼 Professional Experience</h2>
