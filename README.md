@@ -5,9 +5,10 @@
 <h2>💼 Professional Experience</h2>
 <ul>
   <li>
-    <p><a href="https://wycreative.com/">WYcreative</a> | Mar 2022 - Present</p>
+    <p><a href="https://wycreative.com/">WYcreative</a> | Mar 2022 - Jul 2023</p>
     <h3>Front-End Web Developer</h3>
-    <p>I’m mostly working with PugJS, SASS and JavaScript for web development projects. I’m also responsible for QA tests and newsletters, in which I write in Handlebars and Less.</p><br>
+    <p>Mostly coded in PugJS, Sass and JavaScript for web development projects. I also took on responsibilities involving QA testing, A11y and newsletters creation, where I wrote in Handlebars and Less programming languages. I’ve been involved in projects such as <a href="https://isegexecutive.education/">isegexecutive.education</a>, <a href="https://www.vangproperties.com/en/">vangproperties.com</a>, <a href="https://www.parquesdesintra.pt/pt/">parquesdesintra.pt</a>, <a href="https://www.cervejasagres.pt/pt/">cervejasagres.pt</a>, <ahref="https://www.brisa.pt/pt/">brisa.pt</a>, <a href="https://mudareganhar.pt">mudareganhar.pt</a> and others. Additionally, I helped with the creation of components for the Engineering Team Front-End project generator - <a href="https://github.com/WYcreative/genesis">Genesis</a>.</p>
+    <br>
   </li>
   <li>
     <p><a href="https://www.dice.pt/">Dice.pt</a> | Jul 2020 - Jun 2021</p>
@@ -28,34 +29,29 @@
   </thead>
   <tbody>
     <tr>
-      <td>HTML5</td>
+      <td>HTML</td>
       <td>PugJS</td>
       <td>Figma</td>
     </tr>
     <tr>
-      <td>CSS3</td>
+      <td>CSS</td>
       <td>SASS</td>
       <td>Adobe Illustrator</td>
     </tr>
     <tr>
       <td>JavaScript</td>
-      <td>jQuery</td>
+      <td>Less</td>
       <td>Adobe Photoshop</td>
     </tr>
     <tr>
       <td>Liquid</td>
-      <td>Bootstrap</td>
+      <td>Handlebars</td>
       <td>Adobe InDesign</td>
     </tr>
     <tr>
       <td></td>
-      <td>Handlebars</td>
+      <td></td>
       <td>Adobe After Effects</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>Less</td>
-      <td></td>
     </tr>
   </tbody>
 </table>
@@ -70,5 +66,5 @@
     <td><a href="https://instagram.com/raulbmrp">Instagram</a></td>
   </tr>
 </table>
-<a href="https://drive.google.com/file/d/1Gig3N9-O4pVQj9VUC_N5qR7dqy5uHve7/view">View my Resumé</a>
+<a href="https://drive.google.com/file/d/1Uc-wgqqPp4Uw2_E73tsM8BS1mNxl-8Gs/view?usp=sharing">Open my Resumé</a>
 <br>
