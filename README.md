@@ -1,5 +1,5 @@
 <h1>👋 About Me</h1>
-<p>As a passionate <strong>Front-End Developer</strong>, I have expertise in <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>, placing a strong emphasis on creating <strong>accessible</strong> and <strong>user-friendly</strong> websites. By combining a keen eye for <strong>UX</strong> and <strong>UI Design</strong>, I seamlessly blend <strong>aesthetics</strong> with <strong>functionality</strong> to deliver captivating and <strong>responsive digital experiences</strong>. Employing a <strong>problem-solving mindset</strong>, I tackle challenges head-on, discovering innovative solutions for optimal results.</p>
+<p>As a dedicated <strong>UX/UI Developer</strong>, my passion lies in crafting exceptional digital experiences that seamlessly blend <strong>aesthetics</strong> and <strong>functionality</strong>. With a strong foundation in <strong>Front-end</strong> programming languages, I can bring a unique perspective to the design process, emphasizing the creation of <strong>accessible</strong> and <strong>user-friendly</strong> websites. Tackling challenges with a <strong>problem-solving mindset</strong>, I am committed to delivering captivating and <strong>responsive digital experiences</strong> through innovative design solutions.</p>
 <br><br>
 
 <h2>💼 Professional Experience</h2>
@@ -31,11 +31,11 @@
     <tr>
       <td>HTML</td>
       <td>PugJS</td>
-      <td>Figma</td>
+      <td>Figma / FigJam</td>
     </tr>
     <tr>
       <td>CSS</td>
-      <td>SASS</td>
+      <td>Sass</td>
       <td>Adobe Illustrator</td>
     </tr>
     <tr>
@@ -44,7 +44,7 @@
       <td>Adobe Photoshop</td>
     </tr>
     <tr>
-      <td>Liquid</td>
+      <td>Liquid (Shopify)</td>
       <td>Handlebars</td>
       <td>Adobe InDesign</td>
     </tr>
