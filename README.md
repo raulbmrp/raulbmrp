@@ -5,6 +5,18 @@
 <h2>💼 Professional Experience</h2>
 <ul>
   <li>
+    <p><a href="https://interestprotocol.com/">Interest Protocol</a> | Jun 2024 - Present</p>
+    <h3>UX/UI Designer</h3>
+    <p>Just started.</p>
+    <br>
+  </li>
+  <li>
+    <p><a href="https://soochy.com/">Soochy</a> | Feb 2024 - May 2024</p>
+    <h3>UX/UI Designer</h3>
+    <p>At Soochy, I designed websites in Figma, adhering to best practices like atomic design, auto-layout, components, design systems construction, and layer naming. I also implemented designs in WordPress, occasionally writing code for a smooth execution.</p>
+    <br>
+  </li>
+  <li>
     <p><a href="https://wycreative.com/">WYcreative</a> | Mar 2022 - Jul 2023</p>
     <h3>Front-End Web Developer</h3>
     <p>Mostly coded in PugJS, Sass and JavaScript for web development projects. I also took on responsibilities involving QA testing, A11y and newsletters creation, where I wrote in Handlebars and Less programming languages. I’ve been involved in projects such as <a href="https://isegexecutive.education/">isegexecutive.education</a>, <a href="https://www.vangproperties.com/en/">vangproperties.com</a>, <a href="https://www.parquesdesintra.pt/pt/">parquesdesintra.pt</a>, <a href="https://www.cervejasagres.pt/pt/">cervejasagres.pt</a>, <ahref="https://www.brisa.pt/pt/">brisa.pt</a>, <a href="https://mudareganhar.pt">mudareganhar.pt</a> and others. Additionally, I helped with the creation of components for the Engineering Team Front-End project generator - <a href="https://github.com/WYcreative/genesis">Genesis</a>.</p>
